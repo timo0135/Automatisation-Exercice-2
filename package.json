@@ -1,0 +1,14 @@
+{
+  "name": "exercice2",
+  "version": "1.0.0",
+  "description": "Ce projet est un petit annuaire d'entreprises.   Il permet de lister plusieurs entreprises, et d'en voir leur bureaux et employées.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.18.0"
+  }
+}
